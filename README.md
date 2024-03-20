@@ -139,5 +139,5 @@
 <img src="/img/9.png"></img>
 
 # 완료~!
-* 참고 자료 : <https://x486.tistory.com/150#recentComments><br>
-              <https://velog.io/@junbeomm-park/Linux에-Oracle19c-설치-방법-with-VMware-CentOS>
+* 참고 자료1 : <https://x486.tistory.com/150#recentComments><br>
+* 참고 자료2 : <https://velog.io/@junbeomm-park/Linux에-Oracle19c-설치-방법-with-VMware-CentOS>
