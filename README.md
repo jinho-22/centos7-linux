@@ -62,6 +62,7 @@
 ```
 
 ## 6. 오라클 패스워드 설정
+<img>/img/1.png</img>
 ```
   passwd oracle
 ```
