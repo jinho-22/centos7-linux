@@ -62,16 +62,17 @@
 ```
 
 ## 6. 오라클 패스워드 설정
-<img src="/img/1.png"></img>
 ```
   passwd oracle
 ```
+<img src="/img/1.png"></img>
 
 ## 7. selinux desabled 설정
 ```
   vi /etc/selinux/config
   SELINUX=disabled
 ```
+<img src="/img/2.png"></img>
 
 ## 8. 방화벽 내리기
 ```
@@ -118,14 +119,21 @@
   export LD_LIBRARY_PATH=$ORACLE_HOME/lib:/lib:/usr/lib
   export CLASSPATH=$ORACLE_HOME/jlib:$ORACLE_HOME/rdbms/jlib
 ```
+<img src="/img/3.png"></img>
 
 ## 13. 오라클 패키지 파일로 이동 및 압축풀기
 ```
   cd /home/app/oracle/product/19.3.0/db_1
   unzip LINUX.X64_193000_db_home.zip
 ```
+<img src="/img/4.png"></img>
 
 ## 14. 오라클 설치
 ```
   ./runInstaller
 ```
+<img src="/img/5.png"></img>
+<img src="/img/6.png"></img>
+<img src="/img/7.png"></img>
+<img src="/img/8.png"></img>
+<img src="/img/9.png"></img>
